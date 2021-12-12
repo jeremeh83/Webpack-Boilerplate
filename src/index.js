@@ -3,3 +3,5 @@ const greet = name => {
 }
 
 greet('World');
+
+console.log("test");
